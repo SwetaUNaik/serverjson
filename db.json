@@ -1,17 +1,21 @@
 {
+  "posts": [
     {
       "id": 1,
-      "name": "john"
-      "age":21
+      "title": "hello"
     }
-    {
-      "id": 2,
-      "name": "judy"
-      "age":31
+       {
+      "id": 1,
+      "title": "hello"
+    } {
+      "id": 1,
+      "title": "hello"
+    } {
+      "id": 1,
+      "title": "hello"
     }
-    {
-       "id": 3,
-      "name": "jack"
-      "age":41
-    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
