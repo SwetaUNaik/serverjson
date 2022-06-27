@@ -1,18 +1,17 @@
 {
-  "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "john"
+      "age":21
     }
     {
       "id": 2,
-      "title": "hello"
-    }{
-      "id": 3,
-      "title": "hello"
-    }{
-      "id": 4,
-      "title": "hello"
+      "name": "judy"
+      "age":31
     }
-  ],
+    {
+       "id": 3,
+      "name": "jack"
+      "age":41
+    }
 }
