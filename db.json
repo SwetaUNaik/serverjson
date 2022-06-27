@@ -4,16 +4,6 @@
       "id": 1,
       "name": "john",
       "age":21
-    },
-    {
-      "id": 1,
-      "name": "judyn",
-      "age":31
-    },
-    {
-      "id": 1,
-      "name": "jack",
-      "age":41
     }
   ]
   }
